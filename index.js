@@ -20,4 +20,8 @@ function PickupLocation (address, city){
 
 }
 
+<<<<<<< HEAD
 let poshHotel = new PickupLocation("123 Broadway", "New York City");
+=======
+let poshHotel = new PickupLocation("123 Broadway", "New York City");
+>>>>>>> d7d901b2fa6d3501aa14a7b15a21c717437fba55
